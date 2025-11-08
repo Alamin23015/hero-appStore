@@ -1,7 +1,7 @@
 import React, { useState } from 'react';
 import download from '../../assets/download.svg'
 import star from '../../assets/icon-ratings.png'
-import { Link, useLoaderData, useNavigate, useOutletContext } from 'react-router';
+import { Link, useLoaderData, useNavigate, useOutletContext } from 'react-router-dom';
 
 
 
